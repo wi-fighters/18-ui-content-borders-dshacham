@@ -4,3 +4,51 @@
     padding: 20px;
     width: 300px;
 }
+
+#box-1 {
+    border-style: solid;
+    border-color: black;
+    border-width: thin;
+}
+
+#box-2 {
+    border-style: dashed;
+    border-color: black;
+    border-width: thin;
+}
+
+#box-3 {
+    border-style: dotted;
+    border-color: black;
+    border-width: thin;
+}
+
+#box-4 {
+    border-style: double;
+    border-color: black;
+    border-width: thin;
+}
+
+#box-5 {
+    border-style: solid;
+    border-color: black;
+    border-width: thick;
+}
+
+#box-6 {
+    border-style: dashed;
+    border-color: black;
+    border-width: thick;
+}
+
+#box-7 {
+    border-style: dotted;
+    border-color: black;
+    border-width: thick;
+}
+
+#box-8 {
+    border-style: double;
+    border-color: black;
+    border-width: thick;
+}
